@@ -1,5 +1,5 @@
 # ydhya
-<img width="500" height="500" alt="Add a heading (7)" src="https://github.com/user-attachments/assets/160b5856-0e91-4c4e-a542-efdca723e5a7" />
+<img width="50" height="50" alt="Add a heading (7)" src="https://github.com/user-attachments/assets/160b5856-0e91-4c4e-a542-efdca723e5a7" />
 
 A web-based Health Tracking System to monitor and manage user health metric
 Here's a detailed overview of the Health Tracking System project:
